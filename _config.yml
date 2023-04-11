@@ -20,7 +20,7 @@ collections:
 defaults:
   - scope:
       path: "_posts"
-    values:
+    values:git
       layout: "post"
       permalink: /posts/:title/
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
