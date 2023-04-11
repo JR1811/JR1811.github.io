@@ -17,6 +17,8 @@ collections:
   posts:
     output: true
 
+baeurl: ""
+
 defaults:
   - scope:
       path: "_posts"
