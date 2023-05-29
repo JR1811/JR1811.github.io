@@ -11,7 +11,7 @@ Please keep in mind, that I am not a native English speaker. I will most certain
 
 # About me
 
-Currently, a university student in Germany and am 22 y/o.
+Currently, a university student in Germany and am 23 y/o.
 
 - I do have experience in developing software
 - I play [computer games](https://steamcommunity.com/id/JR1811/)

@@ -17,7 +17,7 @@ collections:
   posts:
     output: true
 
-baeurl: ""
+baeurl: "/test/"
 
 defaults:
   - scope:
